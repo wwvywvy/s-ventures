@@ -39,11 +39,11 @@ twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
-email: myemail@gmail.com
+email: sion@s-ventures.co.kr
 
 authors:
   johndoe:
-    name: John Doe
+    name: SiON
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
