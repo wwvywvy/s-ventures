@@ -8,7 +8,7 @@ description: 시리즈 벤처스 시각화 대시보드
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
