@@ -46,8 +46,8 @@ authors:
   johndoe:
     name: SiON
     bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
+    external-image: true
+    picture: assets/images/profile.png
     twitter: johndoe
   jamesfoster:
     name: James Foster
