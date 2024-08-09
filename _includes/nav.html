@@ -41,18 +41,10 @@
         {% if site.Company == true %}
             {% if page.title != "Company" %}
                 <li class="item">
-                    <a class="link" href="https://public.flourish.studio/visualisation/18976895" target="_blank">
-                        기업별
-                        <div class="flourish-embed flourish-hierarchy" data-src="visualisation/18976895">
-                            <script src="https://public.flourish.studio/resources/embed.js"></script>
-                            <noscript>
-                                <img src="https://public.flourish.studio/visualisation/18976895/thumbnail" width="100%" alt="hierarchy visualization" />
-                            </noscript>
-                        </div>
-                    </a>                    
+                    <a class="link" href="{{ site.url }}/Company">기업별</a>                    
                 </li>
             {% endif %}
-        {% endif %} 
+        {% endif %}  
 
         {% if site.resume == true %}
             <li class="item">
