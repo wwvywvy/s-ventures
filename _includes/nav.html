@@ -36,7 +36,15 @@
                     <a class="link" href="bubble-crown-5d4.notion.site">Notion</a>
                 </li>
             {% endif %}
-        {% endif %}        
+        {% endif %}   
+        
+        {% if site.Company == true %}
+            {% if page.title != "Company" %}
+                <li class="item">
+                    <a class="link" href="bubble-crown-5d4.notion.site">기업별</a>
+                </li>
+            {% endif %}
+        {% endif %}  
 
         {% if site.resume == true %}
             <li class="item">
