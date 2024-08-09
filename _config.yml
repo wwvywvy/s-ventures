@@ -1,6 +1,6 @@
 # main text of home
-title: Series Ventures
-bio: 시리즈 벤처스 시각화 대시보드
+title: 시각화 대시보드
+bio: -
 
 # twitter summary info
 description: 시리즈 벤처스 시각화 대시보드
@@ -16,7 +16,7 @@ dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
